@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260723-201424-d6sr",
+      "title": "Ismus Goes Iway, Squall Lion Xv",
+      "commanders": [
+        "Ismus Goes Iway",
+        "Squall Lion Xv"
+      ],
+      "dateStart": "2026-07-23T12:14:24.000Z",
+      "dateEnd": "2026-07-23T13:29:10.000Z",
+      "dateLabel": "7/23/2026, 8:14:24 PM - 7/23/2026, 9:29:10 PM",
+      "url": "https://mhv-12.github.io/logsEU/?report=20260723-201424-d6sr",
+      "summary": {
+        "borderlandsPct": 0.07692307692307693,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260717-225806-naoc",
       "title": "Präk, Squall Bouc Da Hu",
       "commanders": [
