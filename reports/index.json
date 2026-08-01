@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260801-204108-481x",
+      "title": "Squall Lion Xv",
+      "commanders": [
+        "Squall Lion Xv"
+      ],
+      "guild": {
+        "id": "817FF7BD-0A1E-F111-BB1C-06100262F10B",
+        "name": "Le Sanctuaire Du Requin",
+        "tag": "BLUE"
+      },
+      "dateStart": "2026-08-01T12:41:08.000Z",
+      "dateEnd": "2026-08-01T13:49:11.000Z",
+      "dateLabel": "8/1/2026, 8:41:08 PM - 8/1/2026, 9:49:11 PM",
+      "url": "https://mhv-12.github.io/logsEU/?report=20260801-204108-481x",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260723-201424-d6sr",
       "title": "Ismus Goes Iway, Squall Lion Xv",
       "commanders": [
