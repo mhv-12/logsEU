@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260802-201912-1jtu",
+      "title": "Präk",
+      "commanders": [
+        "Präk"
+      ],
+      "guild": {
+        "id": "817FF7BD-0A1E-F111-BB1C-06100262F10B",
+        "name": "Le Sanctuaire Du Requin",
+        "tag": "BLUE"
+      },
+      "dateStart": "2026-08-02T12:19:12.000Z",
+      "dateEnd": "2026-08-02T14:29:16.000Z",
+      "dateLabel": "8/2/2026, 8:19:12 PM - 8/2/2026, 10:29:16 PM",
+      "url": "https://mhv-12.github.io/logsEU/?report=20260802-201912-1jtu",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260801-204108-481x",
       "title": "Squall Lion Xv",
       "commanders": [
