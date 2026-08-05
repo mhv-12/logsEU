@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260805-215032-fy8f",
+      "title": "Dreisterbengel",
+      "commanders": [
+        "Dreisterbengel"
+      ],
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-05T13:50:32.000Z",
+      "dateEnd": "2026-08-05T15:19:53.000Z",
+      "dateLabel": "8/5/2026, 9:50:32 PM - 8/5/2026, 11:19:53 PM",
+      "url": "https://mhv-12.github.io/logsEU/?report=20260805-215032-fy8f",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 28,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260802-201912-1jtu",
       "title": "Präk",
       "commanders": [
