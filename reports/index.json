@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260806-220916-5kcp",
+      "title": "Prakhk",
+      "commanders": [
+        "Prakhk"
+      ],
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-06T14:09:16.000Z",
+      "dateEnd": "2026-08-06T16:18:01.000Z",
+      "dateLabel": "8/6/2026, 10:09:16 PM - 8/7/2026, 12:18:01 AM",
+      "url": "https://mhv-12.github.io/logsEU/?report=20260806-220916-5kcp",
+      "summary": {
+        "borderlandsPct": 0.10526315789473684,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20260805-215032-fy8f",
       "title": "Dreisterbengel",
       "commanders": [
